@@ -1,0 +1,8 @@
+# Original (unkomprimiertes) Video
+Selbstportrait_original.mp4
+
+# Große Video-Dateien die nicht auf GitHub gehören
+*.mov
+
+# macOS System-Dateien
+.DS_Store
